@@ -26,7 +26,7 @@ and open the template in the editor.
                 <div align="left">
                 correo:<input type="text" name="correo" size="20">
                 <br/>
-                contraseña:<input type="text" name="pwd" size="20">
+                contraseña:<input type="password" name="pwd" size="20">
                 </div>
                 <br/>
                 <input type="submit" name="enviar">
